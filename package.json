@@ -1,0 +1,24 @@
+{
+  "name": "HttpErrorPages",
+  "description": "Http error page generator",
+  "version": "1.0.1",
+  "author": "Jong-Ha Ahn <jongha.ahn@mrlatte.net>",
+  "licenses": "MIT",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.7",
+    "grunt-contrib-jshint": "~0.8.0",
+    "underscore": "~1.5.2",
+    "jshint": "~2.4.0",
+    "console-browserify": "~1.0.3",
+    "cli": "~0.4.5",
+    "shelljs": "~0.2.6",
+    "minimatch": "~0.2.14",
+    "htmlparser2": "~3.4.0",
+    "grunt-contrib-copy": "~0.5.0"
+  }
+}
